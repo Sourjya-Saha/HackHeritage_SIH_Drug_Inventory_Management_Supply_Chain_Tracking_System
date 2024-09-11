@@ -1,0 +1,2 @@
+# HackHeritage_SIH_Drug_Inventory_Management_Supply_Chain_Tracking_System
+Our project focuses on developing a Drug Inventory Management and Supply Chain Tracking System aimed at addressing inefficiencies in pharmaceutical logistics. The system ensures real-time tracking of drug inventories and provides visibility across the entire supply chain—from manufacturing to delivery at hospitals and pharmacies.
